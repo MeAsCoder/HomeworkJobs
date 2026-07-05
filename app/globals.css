@@ -5,9 +5,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap");
 
 :root {
-  --bg: #f5f8f6;
+  --bg: #e7f4ea;
   --bg-elevated: #ffffff;
-  --card-border: #dfe8e2;
+  --card-border: #d3e8d9;
   --accent-green-deep: #0d3d29;
   --accent-green: #1a9d54;
   --accent-green-bright: #22c55e;
